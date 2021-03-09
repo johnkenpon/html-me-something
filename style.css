@@ -1,0 +1,53 @@
+header{
+    font-family: monospace;
+    font-size: 200%;
+    color: seagreen;
+    background-color: tomato;
+    text-align: center;
+}
+
+body{
+    background-color: seagreen;
+    
+}
+
+.art{
+    font-family:monospace;
+    font-size: 200%;
+    color:tomato;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 80px;
+}
+
+p1{
+    font-family: monospace;
+    font-size: 110%;
+    color:beige;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 200px;
+}
+
+p{
+    font-family: monospace;
+    font-size: 110%;
+    color: beige;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+figure{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+nav{
+    color:chocolate
+}
+
+a{
+    color:tomato
+}
